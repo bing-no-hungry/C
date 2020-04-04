@@ -15,7 +15,7 @@ main()
 				if(h<f)
 				h=f;
 			}
-            else
+            else /* 当每道菜的愉悦值都小于0时 */
             {
             	if(d==1)
             	g=si;
